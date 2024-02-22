@@ -1,0 +1,17 @@
+th,td, tr{
+    
+    border: 3px solid;  
+    border-color:black;
+    column-gap: 3px;
+    border-bottom-left-radius: 1px;
+    text-align: justify;
+    padding: 8px;
+}
+table
+{
+      border-collapse: collapse;
+      background-color: rgb(236, 236, 224);
+      width: 50%;
+      height:40%;
+      font-family: Arial, Helvetica, sans-serif;
+}
